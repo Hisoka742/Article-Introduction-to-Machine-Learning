@@ -1,7 +1,7 @@
 # Introduction to Machine Learning
 
 This repository provides an overview of **Machine Learning** concepts with examples and applications of supervised and unsupervised learning. It also explores tools like Jupyter Notebook and discusses common algorithms such as **Linear Regression** and **Clustering**.
-Chek the file for more details
+**Check the file for more details**
 
 ---
 
